@@ -1,5 +1,5 @@
 <h1>SGOS - Sistema de Gerenciamento de Ordem de Serviço</h1>
-<p>Projeto que gerencia ordens de serviço, projeto baseado no framework principal Laravel, banco e dados em MySQL, dentre outras tecnologias</p>
+<p>Projeto que gerencia ordens de serviço, o projeto é baseado no framework principal Laravel, banco e dados em MySQL, dentre outras tecnologias</p>
 
 <p>link artigo ciêntifico: http://pensaracademico.facig.edu.br/index.php/repositoriotcc/article/view/1720</p>
 
