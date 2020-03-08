@@ -8,6 +8,7 @@
     <p><strong>Oracle Virtualbox</strong> https://www.virtualbox.org/wiki/Downloads</p>
     <p><strong>Vagrant</strong> https://www.vagrantup.com/downloads.html</p>
     <p>A box usada é a Homestead que é disponibilizado diretamente no site do laravel https://laravel.com/docs/7.x/homestead#introduction</p>
+    <p> *** O sistema foi desenvolvido para ser executado em um host local, na maquina do usuário </p>
 
 # Screenshots
 
