@@ -12,10 +12,13 @@ link artigo ciêntifico: http://pensaracademico.facig.edu.br/index.php/repositor
 # Screenshots
 
 <h3>Login</h3>
-![LOGIN 1](https://user-images.githubusercontent.com/59844929/76155938-e97df980-60d1-11ea-902a-a65961878497.png)
+<img src="https://raw.githubusercontent.com/Ryanfreitasd/imagem/master/LOGIN%201.png?token=AOISSQKOLA25O4TOWTOP2YC6MRUCA">
 
-<h3>Registrar</h3>
-![REGISTRAR](https://user-images.githubusercontent.com/59844929/76155976-60b38d80-60d2-11ea-9114-82d813dcc5c8.png)
+<h3>Dashboard</h3>
+<img src="https://raw.githubusercontent.com/Ryanfreitasd/imagem/master/PAGINA%20PRINCIPAL%202.png?token=AOISSQK6GRJZXLVAHW2MVZK6MRUJM">
 
-<h3>Menu Lateral</h3>
-![MENU LATERAL 3](https://user-images.githubusercontent.com/59844929/76155968-542f3500-60d2-11ea-9658-05e59396c4f8.png)
+<h3>Fluxo de Ordens de Serviço</h3>
+<img src="https://raw.githubusercontent.com/Ryanfreitasd/imagem/master/TODAS%20AS%20ORDENS%207.png?token=AOISSQL3JOQ3BOISBEJVKKC6MRUMM">
+
+<h3>Relatórios</h3>
+<img src="https://raw.githubusercontent.com/Ryanfreitasd/imagem/master/RELATORIOS.png?token=AOISSQJAZPFATWCRTQY7W526MRURI">
