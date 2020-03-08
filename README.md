@@ -12,13 +12,13 @@
 # Screenshots
 
 <h3>Login</h3>
-<img src="https://raw.githubusercontent.com/Ryanfreitasd/imagem/master/LOGIN%201.png?token=AOISSQKSKELBNKG4EXHEBWC6MRVCU">
+<img src="https://github.com/Ryanfreitasd/imagem/blob/master/LOGIN%201.png">
 
 <h3>Dashboard</h3>
-<img src="https://raw.githubusercontent.com/Ryanfreitasd/imagem/master/PAGINA%20PRINCIPAL%202.png?token=AOISSQK6GRJZXLVAHW2MVZK6MRUJM">
+<img src="https://github.com/Ryanfreitasd/imagem/blob/master/PAGINA%20PRINCIPAL%202.png">
 
 <h3>Fluxo de Ordens de Serviço</h3>
-<img src="https://raw.githubusercontent.com/Ryanfreitasd/imagem/master/TODAS%20AS%20ORDENS%207.png?token=AOISSQL3JOQ3BOISBEJVKKC6MRUMM">
+<img src="https://github.com/Ryanfreitasd/imagem/blob/master/TODAS%20AS%20ORDENS%207.png">
 
 <h3>Relatórios</h3>
-<img src="https://raw.githubusercontent.com/Ryanfreitasd/imagem/master/RELATORIOS.png?token=AOISSQJAZPFATWCRTQY7W526MRURI">
+<img src="https://github.com/Ryanfreitasd/imagem/blob/master/RELATORIOS.png">
