@@ -5,8 +5,8 @@
 
 <h1>Observações</h1>
     <p>Para que o projeto seja executado deve-se estar instalado 2 apps</p>
-    <p><strong>Oracle Virtualbox</strong><a> https://www.virtualbox.org/wiki/Downloads</a></p>
-    <p><strong>Vagrant</strong><a> https://www.vagrantup.com/downloads.html</a></p>
+    <p><strong>Oracle Virtualbox</strong> https://www.virtualbox.org/wiki/Downloads</p>
+    <p><strong>Vagrant</strong> https://www.vagrantup.com/downloads.html</p>
     <p>A box usada é a Homestead que é disponibilizado diretamente no site do laravel https://laravel.com/docs/7.x/homestead#introduction</p>
 
 # Screenshots
